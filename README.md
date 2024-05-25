@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
 - 🥅 I've been on github since 2017 🌎 
-
+- 🥅 I'am from Azerbaijan  🇦🇿 
 <br />
 
 ### 📩 Connect with me:
@@ -40,22 +40,22 @@
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical](https://i.hizliresim.com/f0n4cg5.jpg)" alt="mukireus"/>
+  <img height="180em" align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=sahibziko0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical](https://i.hizliresim.com/f0n4cg5.jpg)" alt="mukireus"/>
 </a>
 
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
+[instagram]: https://www.instagram.com/ra7narok
+[bionluk]: https://t.me/deltagameazbot
+[linkedin]: https://t.me/ra7narok
+[medium]: https://themuradov.com/
+[gmail]: mailto:sahib.ziko.123@gmail.com
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/sahibziko
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
