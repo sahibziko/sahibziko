@@ -5,8 +5,8 @@
 ## I'm a Full Stack Developer 🚀, Writer ✍!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
-- 🥅 I've been on github since 2017 🌎 
-- 🥅 I'am from Azerbaijan  🇦🇿 
+- 🔍 I've been on github since 2017 🌎 
+- 💠 I'am from Azerbaijan  🇦🇿  
 <br />
 
 ### 📩 Connect with me:
